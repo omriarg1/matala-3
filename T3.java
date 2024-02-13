@@ -1,3 +1,6 @@
+// Ofek caspi - 208895367
+// Omri argaman - 314772351	
+
 package assig3_1;
 import java.util.concurrent.Semaphore;
 

@@ -1,5 +1,7 @@
-package assig3_1;
+// Ofek caspi - 208895367
+// Omri argaman - 314772351	
 
+package assig3_1;
 import java.util.concurrent.Semaphore;
 
 public class T1 extends Thread {
