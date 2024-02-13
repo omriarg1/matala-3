@@ -1,5 +1,7 @@
-package assig3_2;
+// Ofek caspi - 208895367
+// Omri argaman - 314772351	
 
+package assig3_2;
 import java.util.Random;
 import java.util.concurrent.Semaphore;
 

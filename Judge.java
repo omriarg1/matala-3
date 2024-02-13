@@ -1,3 +1,6 @@
+// Ofek caspi - 208895367
+// Omri argaman - 314772351	
+
 package assig3_2;
 
 import java.util.concurrent.Semaphore;
@@ -17,7 +20,6 @@ public void judge() {
 		} catch (InterruptedException e) {
 			System.out.println("Judge is interrupted");
 		}
-		//if(!Thread.currentThread().isInterrupted())
 		Game.makeCoinAvail(true);
 		try {
 			Thread.sleep(500);
